@@ -74,10 +74,9 @@ Week-3\_SQL\_Advanced\_Analytics
 
 │      09\_Bonus\_Queries.sql
 
-│
-
-└── Project\_Report.pdf
-
+└── SQL_Queries_Output.pdf
+        SQL\_Adavnaced\_Analytics\_week3.pdf
+|      
 ├── README.md
 
 
