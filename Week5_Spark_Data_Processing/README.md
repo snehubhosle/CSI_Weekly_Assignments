@@ -25,8 +25,6 @@ Week5_Spark_Data_Processing/
 │── notebooks/
 │   └── Week5_PySpark_Production_Notebook.ipynb
 │
-│── Output/
-│   └── Processed results and aggregated outputs
 │
 │── README.md
 │
