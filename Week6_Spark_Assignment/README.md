@@ -86,16 +86,12 @@ Week6_Spark_Assignment/
 │     Sample - Superstore.csv
 │
 ├── output/
-│     csv_output/
-│     parquet_output/
+│   Week6_Spark_Assignment_Implementation_output     
 │
-├── screenshots/
 │
 ├── Week6_Spark_Assignment.ipynb
 │
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ---
