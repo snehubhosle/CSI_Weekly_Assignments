@@ -78,25 +78,20 @@ delta-lake-assignment/
 │   └── customer_incremental.csv
 │
 ├── notebooks/
-│   └── delta_scd_assignment.ipynb
+│   └── Week7_Data_Lake_Assignment.ipynb
 │
-├── screenshots/
-│   ├── data_loading/
-│   ├── data_cleaning/
-│   ├── scd1/
-│   ├── scd2/
-│   ├── validation/
-│   └── final_output/
+├── Implementations_Screenshots/
+│   ├── Data_Lake_Implementation_Output.pdf
 │
-├── report/
-│   └── assignment_summary.pdf (optional)
+├── Assignment_Report/
+│   └── Week7_Delta_Lake_MERGE_Report.pdf
 │
 └── README.md
 ```
 
 ## How to Run
 
-1. Open `notebooks/delta_scd_assignment.ipynb` in Google Colab or Jupyter Notebook.
+1. Open ` Week7_Data_Lake_Assignment.ipynb` in Google Colab or Jupyter Notebook.
 2. Run all cells in order from top to bottom.
 3. When prompted, upload `Sample - Superstore.csv`.
 4. All intermediate files (`customer_master.csv`, `customer_incremental.csv`) and the Delta table (`delta/superstore`) will be generated automatically during execution.
