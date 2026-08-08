@@ -1,0 +1,5 @@
+risk_level,transaction_count,total_amount
+High,6747,817181870.01
+Low,12122,611082434.97
+Critical,578,71691265.92
+Medium,557,13943617.23

@@ -1,0 +1,11 @@
+account_id,fraud_type,fraud_transactions,fraud_amount
+ACC0072,Account Takeover,47,4410467.66
+ACC0352,Phishing,57,4348221.0
+ACC0233,Account Takeover,50,3670996.74
+ACC0423,Account Takeover,44,3570870.0
+ACC0071,Phishing,45,3549528.55
+ACC0178,Card Skimming,39,3484161.03
+ACC0192,Phishing,44,3468192.78
+ACC0154,Identity Theft,36,3420859.93
+ACC0013,Card Skimming,39,3393566.87
+ACC0066,Account Takeover,40,3299823.0

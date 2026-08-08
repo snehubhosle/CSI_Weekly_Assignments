@@ -1,0 +1,47 @@
+account_id,fraud_type,flagged_date,ingestion_timestamp,source_system
+ACC0116,Account Takeover,2025-05-26,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0300,Card Skimming,10-Feb-2025,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0280,Account Takeover,2025-03-03,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0464,Account Takeover,2025-07-14,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0072,Account Takeover,2025-05-17,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0178,Card Skimming,2025-02-17,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0268,Card Skimming,2025-07-11,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0085,Card Skimming,2025-07-11,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0013,Card Skimming,2025-05-19,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0208,Card Skimming,2025-06-11,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0061,Identity Theft,2025-03-09,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0349,Card Skimming,2025-05-25,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0415,Identity Theft,2025-04-12,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0220,Card Skimming,2025-05-04,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0375,Identity Theft,2025-03-18,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0301,Card Skimming,2025-03-14,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0154,Identity Theft,2025-06-03,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0001,Phishing,2025-06-07,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0394,Phishing,2025-02-09,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0192,Phishing,2025-05-07,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0341,Phishing,2025-01-18,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0067,Account Takeover,2025-07-01,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0331,Identity Theft,2025-02-27,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0234,,2025-02-10,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0050,Card Skimming,2025-02-12,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0398,Phishing,2025-01-21,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC9998,Account Takeover,2025-03-05,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0400,Identity Theft,2025-03-01,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0423,Account Takeover,2025-02-25,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0121,Account Takeover,2025-03-16,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0344,Card Skimming,2025-02-01,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0435,Account Takeover,2025-05-02,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0256,Phishing,2025-02-10,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0245,Phishing,2025-01-20,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0447,Account Takeover,2025-02-13,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0352,Phishing,2025-03-13,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0078,Account Takeover,2025-07-04,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0066,Account Takeover,2025-02-26,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0377,Identity Theft,2025-07-25,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0071,Phishing,2025-01-30,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0277,Phishing,2025-03-09,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0429,Phishing,2025-02-07,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0010,Phishing,2025-02-01,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0469,Account Takeover,2025-06-18,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0233,Account Takeover,2025-05-09,2026-08-08T12:43:12.516Z,fraud_watchlist.csv
+ACC0010,Phishing,2025-02-01,2026-08-08T12:43:12.516Z,fraud_watchlist.csv

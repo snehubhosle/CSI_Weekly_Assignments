@@ -1,0 +1,44 @@
+account_id,fraud_type,flagged_date
+ACC0001,Phishing,2025-06-07
+ACC0010,Phishing,2025-02-01
+ACC0013,Card Skimming,2025-05-19
+ACC0050,Card Skimming,2025-02-12
+ACC0061,Identity Theft,2025-03-09
+ACC0066,Account Takeover,2025-02-26
+ACC0067,Account Takeover,2025-07-01
+ACC0071,Phishing,2025-01-30
+ACC0072,Account Takeover,2025-05-17
+ACC0078,Account Takeover,2025-07-04
+ACC0085,Card Skimming,2025-07-11
+ACC0116,Account Takeover,2025-05-26
+ACC0121,Account Takeover,2025-03-16
+ACC0154,Identity Theft,2025-06-03
+ACC0178,Card Skimming,2025-02-17
+ACC0192,Phishing,2025-05-07
+ACC0208,Card Skimming,2025-06-11
+ACC0220,Card Skimming,2025-05-04
+ACC0233,Account Takeover,2025-05-09
+ACC0245,Phishing,2025-01-20
+ACC0256,Phishing,2025-02-10
+ACC0268,Card Skimming,2025-07-11
+ACC0277,Phishing,2025-03-09
+ACC0280,Account Takeover,2025-03-03
+ACC0300,Card Skimming,2025-02-10
+ACC0301,Card Skimming,2025-03-14
+ACC0331,Identity Theft,2025-02-27
+ACC0341,Phishing,2025-01-18
+ACC0344,Card Skimming,2025-02-01
+ACC0349,Card Skimming,2025-05-25
+ACC0352,Phishing,2025-03-13
+ACC0375,Identity Theft,2025-03-18
+ACC0377,Identity Theft,2025-07-25
+ACC0394,Phishing,2025-02-09
+ACC0398,Phishing,2025-01-21
+ACC0400,Identity Theft,2025-03-01
+ACC0415,Identity Theft,2025-04-12
+ACC0423,Account Takeover,2025-02-25
+ACC0429,Phishing,2025-02-07
+ACC0435,Account Takeover,2025-05-02
+ACC0447,Account Takeover,2025-02-13
+ACC0464,Account Takeover,2025-07-14
+ACC0469,Account Takeover,2025-06-18

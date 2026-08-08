@@ -1,0 +1,5 @@
+fraud_type,fraud_transactions,fraud_amount
+Account Takeover,506,38439375.65
+Phishing,490,35690223.75
+Card Skimming,410,30994148.75
+Identity Theft,259,19895915.09

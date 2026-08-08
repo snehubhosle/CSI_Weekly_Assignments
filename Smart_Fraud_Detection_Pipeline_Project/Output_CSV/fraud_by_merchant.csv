@@ -1,0 +1,9 @@
+merchant,fraud_transactions,fraud_amount
+Amazon,221,16821460.24
+ATM_Withdrawal,211,16521292.0
+Zomato,223,16476807.08
+Uber,217,16246277.97
+Flipkart,205,15981773.29
+Unknown_POS,193,15073604.29
+BigBasket,201,14742573.13
+Swiggy,194,13155875.24
