@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Sofa Set,Home,Furniture,14631.59
+PROD0002,Women'S Kurti,Clothing,Women,2754.31
+PROD0003,Men'S Jeans,Clothing,Men,1374.83
+PROD0004,Wall Art,Home,Decor,1895.68
+PROD0005,Men'S T-Shirt,Clothing,Men,908.71
+PROD0006,Ai Fundamentals,Books,Technology,104.18
+PROD0007,Fantasy Epic,Books,Fiction,527.14
+PROD0008,Python Programming Guide,Books,Technology,104.92
+PROD0009,Table Lamp,Home,Decor,967.7
+PROD0010,Study Table,Home,Furniture,10054.9
+PROD0011,Non-Stick Pan,Home,Kitchen,14906.97
+PROD0012,Leather Sandals,Clothing,Footwear,2136.24
+PROD0013,Women'S Blouse,Clothing,Women,460.75
+PROD0014,Cutlery Set,Home,Kitchen,12330.93
+PROD0015,School Atlas,Books,Education,208.82
+PROD0016,Pressure Cooker,Home,Kitchen,10483.07
+PROD0017,Smartphone X,Electronics,Mobile,41474.93
+PROD0018,Cutlery Set,Home,Kitchen,14926.11
+PROD0019,Sofa Set,Home,Furniture,9533.09
+PROD0020,Fantasy Epic,Books,Fiction,980.33
+PROD0021,Smartphone X,Electronics,Mobile,47905.59
+PROD0022,Formal Shoes,Clothing,Footwear,1134.62
+PROD0023,Men'S Jeans,Clothing,Men,912.37
+PROD0024,Bluetooth Headset,Electronics,Headphones,19773.47
+PROD0025,Pixel Phone,Electronics,Mobile,43601.6
+PROD0026,Gaming Laptop,Electronics,Laptop,20607.24
+PROD0027,Python Programming Guide,Books,Technology,532.35
+PROD0028,English Grammar Guide,Books,Education,831.75
+PROD0029,Bluetooth Headset,Electronics,Headphones,1613.75
+PROD0030,Non-Stick Pan,Home,Kitchen,4314.83
+PROD0031,Noise Cancelling Headphones,Electronics,Headphones,50623.14
+PROD0032,Mystery Novel,Books,Fiction,775.39
+PROD0033,Wall Clock,Home,Decor,7531.26
+PROD0034,Women'S Kurti,Clothing,Women,1047.36
+PROD0035,Wooden Chair,Home,Furniture,705.32
+PROD0036,Men'S Formal Shirt,Clothing,Men,2437.27
+PROD0037,Men'S Jacket,Clothing,Men,2250.83
+PROD0038,Blender,Home,Kitchen,1609.04
+PROD0039,Men'S T-Shirt,Clothing,Men,2198.3
+PROD0040,Pixel Phone,Electronics,Mobile,41379.61
+PROD0041,Noise Cancelling Headphones,Electronics,Headphones,6634.62
+PROD0042,Bookshelf,Home,Furniture,3266.21
+PROD0043,Men'S Jacket,Clothing,Men,2363.8
+PROD0044,Over-Ear Headphones,Electronics,Headphones,1407.77
+PROD0045,Business Notebook,Electronics,Laptop,16627.6
+PROD0046,Table Lamp,Home,Decor,9256.95
+PROD0047,Wall Art,Home,Decor,7140.42
+PROD0048,Budget Phone,Electronics,Mobile,23819.05
+PROD0049,English Grammar Guide,Books,Education,834.7
+PROD0050,Usb-C Charger,Electronics,Accessories,6287.15
+PROD0051,Wall Art,Home,Decor,14219.61
+PROD0052,Leather Sandals,Clothing,Footwear,1297.82
+PROD0053,Pressure Cooker,Home,Kitchen,1120.67
+PROD0054,Noise Cancelling Headphones,Electronics,Headphones,10662.69
+PROD0055,Table Lamp,Home,Decor,6174.44
+PROD0056,Wireless Earbuds,Electronics,Headphones,32198.36
+PROD0057,General Knowledge Book,Books,Education,592.15
+PROD0058,Python Programming Guide,Books,Technology,831.52
+PROD0059,Sql For Beginners,Books,Technology,311.54
+PROD0060,Wireless Mouse,Electronics,Accessories,28043.05
+PROD0061,Usb-C Charger,Electronics,Accessories,24644.72
+PROD0062,Laptop Stand,Electronics,Accessories,39779.8
+PROD0063,Gaming Laptop,Electronics,Laptop,54243.73
+PROD0064,Gaming Laptop,Electronics,Laptop,17844.44
+PROD0065,Fantasy Epic,Books,Fiction,383.94
+PROD0066,Cutlery Set,Home,Kitchen,8803.5
+PROD0067,Romance Story,Books,Fiction,970.11
+PROD0068,Wireless Earbuds,Electronics,Headphones,52007.94
+PROD0069,Women'S Kurti,Clothing,Women,2192.97
+PROD0070,Ai Fundamentals,Books,Technology,695.24
+PROD0071,Fantasy Epic,Books,Fiction,857.99
+PROD0072,Blender,Home,Kitchen,2144.02
+PROD0073,Galaxy Note,Electronics,Mobile,29458.73
+PROD0074,Mystery Novel,Books,Fiction,873.14
+PROD0075,Maths Workbook,Books,Education,480.71
+PROD0076,Sql For Beginners,Books,Technology,643.12
+PROD0077,Maths Workbook,Books,Education,341.33
+PROD0078,Wooden Chair,Home,Furniture,10617.51
+PROD0079,Wireless Mouse,Electronics,Accessories,59022.96
+PROD0080,Non-Stick Pan,Home,Kitchen,9209.55
+PROD0081,Women'S Dress,Clothing,Women,1709.75
+PROD0082,Wall Clock,Home,Decor,8095.24
+PROD0083,Phone Case,Electronics,Accessories,28419.33
+PROD0084,Cutlery Set,Home,Kitchen,12003.61
+PROD0085,Wooden Chair,Home,Furniture,9024.9
+PROD0086,Photo Frame,Home,Decor,8735.4
+PROD0087,Wireless Earbuds,Electronics,Headphones,8045.87
+PROD0088,Bluetooth Headset,Electronics,Headphones,16875.42
+PROD0089,Wooden Chair,Home,Furniture,13665.45
+PROD0090,Formal Shoes,Clothing,Footwear,691.12
+PROD0091,Women'S Jeans,Clothing,Women,2613.64
+PROD0092,Study Table,Home,Furniture,12352.6
+PROD0093,Ai Fundamentals,Books,Technology,752.4
+PROD0094,Men'S Jacket,Clothing,Men,2315.36
+PROD0095,Galaxy Note,Electronics,Mobile,28835.8
+PROD0096,Maths Workbook,Books,Education,734.05
+PROD0097,Data Science Handbook,Books,Technology,490.26
+PROD0098,Pressure Cooker,Home,Kitchen,14432.18
+PROD0099,Pixel Phone,Electronics,Mobile,26191.26
+PROD0100,Cutlery Set,Home,Kitchen,3941.86
+PROD0101,Data Science Handbook,Books,Technology,628.85
+PROD0102,Leather Sandals,Clothing,Footwear,2981.0
+PROD0103,Wall Clock,Home,Decor,12500.59
+PROD0104,Wireless Mouse,Electronics,Accessories,41287.22
+PROD0105,Bookshelf,Home,Furniture,501.95
+PROD0106,Galaxy Note,Electronics,Mobile,38465.93
+PROD0107,Galaxy Note,Electronics,Mobile,45949.54
+PROD0108,Men'S Jeans,Clothing,Men,2049.34
+PROD0109,Laptop Stand,Electronics,Accessories,41687.18
+PROD0110,Blender,Home,Kitchen,4267.72
+PROD0111,Phone Case,Electronics,Accessories,4073.49
+PROD0112,Sofa Set,Home,Furniture,9212.98
+PROD0113,Formal Shoes,Clothing,Footwear,2352.38
+PROD0114,Running Shoes,Clothing,Footwear,2203.12
+PROD0115,Smartphone X,Electronics,Mobile,46745.61
+PROD0116,Usb-C Charger,Electronics,Accessories,551.62
+PROD0117,Laptop Stand,Electronics,Accessories,54324.74
+PROD0118,Phone Case,Electronics,Accessories,50720.92
+PROD0119,Ultrabook Pro,Electronics,Laptop,41511.05
+PROD0120,Romance Story,Books,Fiction,371.55
+PROD0121,Pixel Phone,Electronics,Mobile,57675.07
+PROD0122,Laptop Stand,Electronics,Accessories,11008.79
+PROD0123,Usb-C Charger,Electronics,Accessories,53839.41
+PROD0124,Non-Stick Pan,Home,Kitchen,6654.06
+PROD0125,Men'S T-Shirt,Clothing,Men,867.76
+PROD0126,Romance Story,Books,Fiction,967.46
+PROD0127,Mystery Novel,Books,Fiction,402.95
+PROD0128,Wireless Mouse,Electronics,Accessories,27773.04
+PROD0129,Casual Sneakers,Clothing,Footwear,303.26
+PROD0130,Women'S Dress,Clothing,Women,2770.45
+PROD0131,Gaming Laptop,Electronics,Laptop,54327.41
+PROD0132,Usb-C Charger,Electronics,Accessories,4305.48
+PROD0133,Budget Phone,Electronics,Mobile,37129.9
+PROD0134,Chromebook,Electronics,Laptop,50235.81
+PROD0135,Python Programming Guide,Books,Technology,617.37
+PROD0136,Women'S Jeans,Clothing,Women,1860.64
+PROD0137,Wooden Chair,Home,Furniture,2645.56
+PROD0138,Table Lamp,Home,Decor,13896.28
+PROD0139,Ultrabook Pro,Electronics,Laptop,38115.58
+PROD0140,Mystery Novel,Books,Fiction,171.65
+PROD0141,Ultrabook Pro,Electronics,Laptop,35826.97
+PROD0142,Pressure Cooker,Home,Kitchen,3211.48
+PROD0143,Wall Art,Home,Decor,14080.63
+PROD0144,Chromebook,Electronics,Laptop,5737.26
+PROD0145,Pressure Cooker,Home,Kitchen,2999.76
+PROD0146,Over-Ear Headphones,Electronics,Headphones,37774.62
+PROD0147,Women'S Dress,Clothing,Women,2118.68
+PROD0148,Data Science Handbook,Books,Technology,147.62
+PROD0149,Blender,Home,Kitchen,5114.28
+PROD0150,Mystery Novel,Books,Fiction,931.38
+PROD0151,Men'S T-Shirt,Clothing,Men,524.98
+PROD0152,Formal Shoes,Clothing,Footwear,1112.72
+PROD0153,Leather Sandals,Clothing,Footwear,1113.17
+PROD0154,Chromebook,Electronics,Laptop,22844.18
+PROD0155,Men'S Formal Shirt,Clothing,Men,352.15
+PROD0156,Fantasy Epic,Books,Fiction,508.49
+PROD0157,Data Science Handbook,Books,Technology,273.74
+PROD0158,Blender,Home,Kitchen,626.6
+PROD0159,Over-Ear Headphones,Electronics,Headphones,27785.45
+PROD0160,Women'S Jeans,Clothing,Women,1890.18
+PROD0161,Casual Sneakers,Clothing,Footwear,1569.8
+PROD0162,Formal Shoes,Clothing,Footwear,981.68
+PROD0163,Maths Workbook,Books,Education,620.52
+PROD0164,Running Shoes,Clothing,Footwear,323.83
+PROD0165,School Atlas,Books,Education,453.89
+PROD0166,Phone Case,Electronics,Accessories,45308.18
+PROD0167,Fantasy Epic,Books,Fiction,314.16
+PROD0168,Budget Phone,Electronics,Mobile,10127.27
+PROD0169,School Atlas,Books,Education,516.38
+PROD0170,Formal Shoes,Clothing,Footwear,1955.07
+PROD0171,Budget Phone,Electronics,Mobile,20307.92
+PROD0172,Noise Cancelling Headphones,Electronics,Headphones,42034.27
+PROD0173,Running Shoes,Clothing,Footwear,1139.95
+PROD0174,Wireless Earbuds,Electronics,Headphones,28188.5
+PROD0175,Bluetooth Headset,Electronics,Headphones,42439.98
+PROD0176,Men'S Jacket,Clothing,Men,2017.31
+PROD0177,Casual Sneakers,Clothing,Footwear,2714.21
+PROD0178,Python Programming Guide,Books,Technology,506.17
+PROD0179,Laptop Stand,Electronics,Accessories,22404.68
+PROD0180,Chromebook,Electronics,Laptop,53927.78
+PROD0181,Wooden Chair,Home,Furniture,10501.67
+PROD0182,Fantasy Epic,Books,Fiction,663.55
+PROD0183,Blender,Home,Kitchen,6388.93
+PROD0184,Over-Ear Headphones,Electronics,Headphones,50179.38
+PROD0185,Cutlery Set,Home,Kitchen,11834.34
+PROD0186,General Knowledge Book,Books,Education,609.53
+PROD0187,Bookshelf,Home,Furniture,14565.25
+PROD0188,Business Notebook,Electronics,Laptop,37308.5
+PROD0189,Leather Sandals,Clothing,Footwear,2550.13
+PROD0190,Men'S Jeans,Clothing,Men,1808.67
+PROD0191,Sql For Beginners,Books,Technology,735.42
+PROD0192,Blender,Home,Kitchen,8167.02
+PROD0193,Leather Sandals,Clothing,Footwear,1332.77
+PROD0194,Thriller Book,Books,Fiction,239.45
+PROD0195,Photo Frame,Home,Decor,4453.93
+PROD0196,Formal Shoes,Clothing,Footwear,514.48
+PROD0197,Fantasy Epic,Books,Fiction,204.19
+PROD0198,Usb-C Charger,Electronics,Accessories,6002.63
+PROD0199,Gaming Laptop,Electronics,Laptop,46142.16
+PROD0200,Men'S T-Shirt,Clothing,Men,1447.28
+PROD0201,Usb-C Charger,Electronics,Accessories,36388.73
+PROD0202,Noise Cancelling Headphones,Electronics,Headphones,22492.98
+PROD0203,Bookshelf,Home,Furniture,4725.07
+PROD0204,School Atlas,Books,Education,766.37
+PROD0205,Sql For Beginners,Books,Technology,754.74
+PROD0206,Mystery Novel,Books,Fiction,526.15
+PROD0207,Sofa Set,Home,Furniture,9636.27
+PROD0208,Blender,Home,Kitchen,10697.17
+PROD0209,Men'S Jeans,Clothing,Men,1010.5
+PROD0210,Romance Story,Books,Fiction,372.52
+PROD0211,Mystery Novel,Books,Fiction,237.62
+PROD0212,Wall Art,Home,Decor,6344.78
+PROD0213,Maths Workbook,Books,Education,542.75
+PROD0214,Noise Cancelling Headphones,Electronics,Headphones,52166.58
+PROD0215,School Atlas,Books,Education,758.66
+PROD0216,Over-Ear Headphones,Electronics,Headphones,9195.16
+PROD0217,Maths Workbook,Books,Education,146.6
+PROD0218,Cutlery Set,Home,Kitchen,8014.74
+PROD0219,Gaming Laptop,Electronics,Laptop,36126.37
+PROD0220,Leather Sandals,Clothing,Footwear,2515.1
+PROD0221,Cutlery Set,Home,Kitchen,5371.7
+PROD0222,Men'S Jeans,Clothing,Men,1244.44
+PROD0223,Sql For Beginners,Books,Technology,245.73
+PROD0224,Men'S Jeans,Clothing,Men,2426.3
+PROD0225,Phone Case,Electronics,Accessories,7435.66
+PROD0226,Men'S Formal Shirt,Clothing,Men,2134.94
+PROD0227,Women'S Blouse,Clothing,Women,280.53
+PROD0228,Gaming Laptop,Electronics,Laptop,8970.38
+PROD0229,Women'S Jeans,Clothing,Women,1389.45
+PROD0230,Smartphone X,Electronics,Mobile,45561.38
+PROD0231,Ultrabook Pro,Electronics,Laptop,35793.98
+PROD0232,Romance Story,Books,Fiction,699.83
+PROD0233,Galaxy Note,Electronics,Mobile,12401.45
+PROD0234,Wooden Chair,Home,Furniture,14239.56
+PROD0235,Blender,Home,Kitchen,11744.91
+PROD0236,Running Shoes,Clothing,Footwear,2337.08
+PROD0237,Casual Sneakers,Clothing,Footwear,680.97
+PROD0238,Galaxy Note,Electronics,Mobile,51152.16
+PROD0239,Data Science Handbook,Books,Technology,960.97
+PROD0240,Women'S Kurti,Clothing,Women,1639.9
+PROD0241,Romance Story,Books,Fiction,566.75
+PROD0242,Sql For Beginners,Books,Technology,135.55
+PROD0243,Non-Stick Pan,Home,Kitchen,6935.64
+PROD0244,Wall Art,Home,Decor,4465.25
+PROD0245,Mystery Novel,Books,Fiction,821.19
+PROD0246,Wooden Chair,Home,Furniture,7450.98
+PROD0247,Phone Case,Electronics,Accessories,40752.86
+PROD0248,Chromebook,Electronics,Laptop,35638.16
+PROD0249,Ultrabook Pro,Electronics,Laptop,12345.64
+PROD0250,Formal Shoes,Clothing,Footwear,2230.56
+PROD0251,Photo Frame,Home,Decor,12044.62
+PROD0252,Ai Fundamentals,Books,Technology,954.12
+PROD0253,English Grammar Guide,Books,Education,196.23
+PROD0254,Pressure Cooker,Home,Kitchen,591.39
+PROD0255,Budget Phone,Electronics,Mobile,58338.32
+PROD0256,English Grammar Guide,Books,Education,659.91
+PROD0257,Phone Case,Electronics,Accessories,29669.9
+PROD0258,Photo Frame,Home,Decor,8176.86
+PROD0259,Budget Phone,Electronics,Mobile,7588.48
+PROD0260,Ai Fundamentals,Books,Technology,131.38
+PROD0261,Leather Sandals,Clothing,Footwear,659.6
+PROD0262,Romance Story,Books,Fiction,537.71
+PROD0263,Phone Case,Electronics,Accessories,51333.91
+PROD0264,Laptop Stand,Electronics,Accessories,58266.81
+PROD0265,Cutlery Set,Home,Kitchen,820.01
+PROD0266,Non-Stick Pan,Home,Kitchen,9433.52
+PROD0267,Thriller Book,Books,Fiction,420.63
+PROD0268,Study Table,Home,Furniture,8949.1
+PROD0269,Wireless Earbuds,Electronics,Headphones,1672.86
+PROD0270,Sofa Set,Home,Furniture,6423.72
+PROD0271,Python Programming Guide,Books,Technology,628.19
+PROD0272,Pressure Cooker,Home,Kitchen,1601.23
+PROD0273,Fantasy Epic,Books,Fiction,551.49
+PROD0274,Bookshelf,Home,Furniture,6624.47
+PROD0275,School Atlas,Books,Education,581.25
+PROD0276,Non-Stick Pan,Home,Kitchen,6120.11
+PROD0277,Running Shoes,Clothing,Footwear,1818.94
+PROD0278,Non-Stick Pan,Home,Kitchen,8036.3
+PROD0279,Romance Story,Books,Fiction,685.38
+PROD0280,Photo Frame,Home,Decor,8168.22
+PROD0281,Women'S Kurti,Clothing,Women,1469.04
+PROD0282,Men'S Jeans,Clothing,Men,796.27
+PROD0283,Ai Fundamentals,Books,Technology,752.95
+PROD0284,Business Notebook,Electronics,Laptop,14802.25
+PROD0285,Pressure Cooker,Home,Kitchen,12478.68
+PROD0286,Chromebook,Electronics,Laptop,38939.54
+PROD0287,Table Lamp,Home,Decor,1836.34
+PROD0288,Men'S Jeans,Clothing,Men,1069.51
+PROD0289,General Knowledge Book,Books,Education,914.09
+PROD0290,Men'S Jacket,Clothing,Men,2411.08
+PROD0291,Table Lamp,Home,Decor,777.15
+PROD0292,Mystery Novel,Books,Fiction,174.54
+PROD0293,Sofa Set,Home,Furniture,10124.33
+PROD0294,Usb-C Charger,Electronics,Accessories,44201.58
+PROD0295,Noise Cancelling Headphones,Electronics,Headphones,14665.57
+PROD0296,Bluetooth Headset,Electronics,Headphones,44365.56
+PROD0297,Women'S Jeans,Clothing,Women,799.5
+PROD0298,Pressure Cooker,Home,Kitchen,980.49
+PROD0299,Wall Clock,Home,Decor,6443.15
+PROD0300,Women'S Jeans,Clothing,Women,2203.88
+PROD0301,Wooden Chair,Home,Furniture,9984.02
+PROD0302,Business Notebook,Electronics,Laptop,18901.48
+PROD0303,Wall Clock,Home,Decor,3660.27
+PROD0304,Python Programming Guide,Books,Technology,452.68
+PROD0305,Non-Stick Pan,Home,Kitchen,11386.52
+PROD0306,Study Table,Home,Furniture,9525.59
+PROD0307,Romance Story,Books,Fiction,839.88
+PROD0308,Ai Fundamentals,Books,Technology,398.45
+PROD0309,Fantasy Epic,Books,Fiction,554.7
+PROD0310,Cutlery Set,Home,Kitchen,556.16
+PROD0311,Chromebook,Electronics,Laptop,8597.49
+PROD0312,Romance Story,Books,Fiction,173.01
+PROD0313,Men'S Jeans,Clothing,Men,2120.11
+PROD0314,Pressure Cooker,Home,Kitchen,2132.62
+PROD0315,Leather Sandals,Clothing,Footwear,756.26
+PROD0316,Data Science Handbook,Books,Technology,438.59
+PROD0317,Men'S T-Shirt,Clothing,Men,2011.9
+PROD0318,Men'S Formal Shirt,Clothing,Men,339.39
+PROD0319,English Grammar Guide,Books,Education,252.11
+PROD0320,Budget Phone,Electronics,Mobile,55732.95
+PROD0321,Fantasy Epic,Books,Fiction,270.49
+PROD0322,Pressure Cooker,Home,Kitchen,6554.93
+PROD0323,Casual Sneakers,Clothing,Footwear,992.31
+PROD0324,Women'S Jeans,Clothing,Women,608.64
+PROD0325,Blender,Home,Kitchen,13623.82
+PROD0326,Wall Art,Home,Decor,2128.09
+PROD0327,Wall Art,Home,Decor,10743.04
+PROD0328,English Grammar Guide,Books,Education,151.88
+PROD0329,Sofa Set,Home,Furniture,14951.58
+PROD0330,Pixel Phone,Electronics,Mobile,23165.79
+PROD0331,English Grammar Guide,Books,Education,136.01
+PROD0332,Women'S Jeans,Clothing,Women,2804.92
+PROD0333,Mystery Novel,Books,Fiction,576.38
+PROD0334,Women'S Dress,Clothing,Women,2939.85
+PROD0335,Sql For Beginners,Books,Technology,353.63
+PROD0336,Photo Frame,Home,Decor,6621.26
+PROD0337,Women'S Kurti,Clothing,Women,623.54
+PROD0338,Fantasy Epic,Books,Fiction,263.83
+PROD0339,Data Science Handbook,Books,Technology,491.79
+PROD0340,Thriller Book,Books,Fiction,737.13
+PROD0341,Ai Fundamentals,Books,Technology,210.29
+PROD0342,Business Notebook,Electronics,Laptop,45121.23
+PROD0343,Table Lamp,Home,Decor,14578.67
+PROD0344,Women'S Dress,Clothing,Women,2095.34
+PROD0345,Bookshelf,Home,Furniture,10257.5
+PROD0346,Python Programming Guide,Books,Technology,237.4
+PROD0347,Phone Case,Electronics,Accessories,57334.49
+PROD0348,Wireless Earbuds,Electronics,Headphones,57078.31
+PROD0349,Table Lamp,Home,Decor,12053.14
+PROD0350,Non-Stick Pan,Home,Kitchen,8275.27
+PROD0351,Thriller Book,Books,Fiction,967.54
+PROD0352,Mystery Novel,Books,Fiction,245.65
+PROD0353,Data Science Handbook,Books,Technology,819.99
+PROD0354,Table Lamp,Home,Decor,1577.26
+PROD0355,Table Lamp,Home,Decor,13298.38
+PROD0356,Ai Fundamentals,Books,Technology,828.89
+PROD0357,Women'S Kurti,Clothing,Women,1156.89
+PROD0358,Maths Workbook,Books,Education,741.27
+PROD0359,School Atlas,Books,Education,170.26
+PROD0360,Data Science Handbook,Books,Technology,714.88
+PROD0361,Sofa Set,Home,Furniture,8332.27
+PROD0362,Budget Phone,Electronics,Mobile,28147.06
+PROD0363,Cutlery Set,Home,Kitchen,11564.4
+PROD0364,Budget Phone,Electronics,Mobile,50653.13
+PROD0365,Budget Phone,Electronics,Mobile,18210.03
+PROD0366,General Knowledge Book,Books,Education,337.57
+PROD0367,Men'S Jeans,Clothing,Men,926.09
+PROD0368,Wireless Mouse,Electronics,Accessories,1291.62
+PROD0369,Ai Fundamentals,Books,Technology,968.22
+PROD0370,Sql For Beginners,Books,Technology,965.83
+PROD0371,Python Programming Guide,Books,Technology,270.72
+PROD0372,Ultrabook Pro,Electronics,Laptop,39159.52
+PROD0373,Maths Workbook,Books,Education,232.35
+PROD0374,Mystery Novel,Books,Fiction,763.9
+PROD0375,Ai Fundamentals,Books,Technology,625.7
+PROD0376,Women'S Kurti,Clothing,Women,487.46
+PROD0377,Ai Fundamentals,Books,Technology,635.26
+PROD0378,Sofa Set,Home,Furniture,7773.33
+PROD0379,Mystery Novel,Books,Fiction,478.8
+PROD0380,Wall Clock,Home,Decor,13353.74
+PROD0381,Laptop Stand,Electronics,Accessories,26455.69
+PROD0382,Women'S Jeans,Clothing,Women,1426.71
+PROD0383,Leather Sandals,Clothing,Footwear,2589.67
+PROD0384,Romance Story,Books,Fiction,450.33
+PROD0385,English Grammar Guide,Books,Education,818.78
+PROD0386,Casual Sneakers,Clothing,Footwear,2067.76
+PROD0387,Men'S Jeans,Clothing,Men,482.53
+PROD0388,Sql For Beginners,Books,Technology,141.34
+PROD0389,Bluetooth Headset,Electronics,Headphones,9937.03
+PROD0390,Pixel Phone,Electronics,Mobile,37244.99
+PROD0391,Chromebook,Electronics,Laptop,47200.71
+PROD0392,Over-Ear Headphones,Electronics,Headphones,52484.89
+PROD0393,Budget Phone,Electronics,Mobile,57777.5
+PROD0394,Smartphone X,Electronics,Mobile,2997.18
+PROD0395,Ultrabook Pro,Electronics,Laptop,54703.65
+PROD0396,Leather Sandals,Clothing,Footwear,2333.5
+PROD0397,School Atlas,Books,Education,400.15
+PROD0398,Men'S Jeans,Clothing,Men,1364.1
+PROD0399,Chromebook,Electronics,Laptop,30548.85
+PROD0400,Bluetooth Headset,Electronics,Headphones,25193.01
+PROD0401,Men'S Formal Shirt,Clothing,Men,586.38
+PROD0402,Ai Fundamentals,Books,Technology,955.66
+PROD0403,Sofa Set,Home,Furniture,10806.74
+PROD0404,Pixel Phone,Electronics,Mobile,58925.72
+PROD0405,Women'S Dress,Clothing,Women,303.86
+PROD0406,Running Shoes,Clothing,Footwear,2944.13
+PROD0407,Pressure Cooker,Home,Kitchen,10556.74
+PROD0408,Photo Frame,Home,Decor,267.35
+PROD0409,Table Lamp,Home,Decor,6775.91
+PROD0410,Formal Shoes,Clothing,Footwear,2685.49
+PROD0411,Romance Story,Books,Fiction,400.04
+PROD0412,Leather Sandals,Clothing,Footwear,1745.0
+PROD0413,Table Lamp,Home,Decor,8948.68
+PROD0414,Women'S Kurti,Clothing,Women,509.24
+PROD0415,Bluetooth Headset,Electronics,Headphones,21591.16
+PROD0416,Budget Phone,Electronics,Mobile,27462.26
+PROD0417,Casual Sneakers,Clothing,Footwear,996.7
+PROD0418,Formal Shoes,Clothing,Footwear,893.37
+PROD0419,Table Lamp,Home,Decor,5514.82
+PROD0420,Chromebook,Electronics,Laptop,5375.86
+PROD0421,Usb-C Charger,Electronics,Accessories,27046.76
+PROD0422,Wall Art,Home,Decor,7856.33
+PROD0423,Ai Fundamentals,Books,Technology,995.86
+PROD0424,General Knowledge Book,Books,Education,228.91
+PROD0425,Women'S Kurti,Clothing,Women,2617.16
+PROD0426,Chromebook,Electronics,Laptop,44916.53
+PROD0427,Sofa Set,Home,Furniture,8640.71
+PROD0428,Ultrabook Pro,Electronics,Laptop,59465.7
+PROD0429,Pressure Cooker,Home,Kitchen,2260.78
+PROD0430,Romance Story,Books,Fiction,293.02
+PROD0431,Mystery Novel,Books,Fiction,159.81
+PROD0432,Phone Case,Electronics,Accessories,34162.96
+PROD0433,Pressure Cooker,Home,Kitchen,12530.2
+PROD0434,Men'S Formal Shirt,Clothing,Men,2068.22
+PROD0435,Leather Sandals,Clothing,Footwear,2060.61
+PROD0436,Data Science Handbook,Books,Technology,404.1
+PROD0437,Laptop Stand,Electronics,Accessories,52024.24
+PROD0438,Wireless Earbuds,Electronics,Headphones,5566.55
+PROD0439,Chromebook,Electronics,Laptop,1610.51
+PROD0440,Men'S Jacket,Clothing,Men,886.8
+PROD0441,Romance Story,Books,Fiction,139.49
+PROD0442,Noise Cancelling Headphones,Electronics,Headphones,51649.08
+PROD0443,Cutlery Set,Home,Kitchen,8195.42
+PROD0444,Study Table,Home,Furniture,2440.28
+PROD0445,Maths Workbook,Books,Education,262.31
+PROD0446,Noise Cancelling Headphones,Electronics,Headphones,25062.96
+PROD0447,Pressure Cooker,Home,Kitchen,13507.6
+PROD0448,Gaming Laptop,Electronics,Laptop,35368.73
+PROD0449,General Knowledge Book,Books,Education,341.36
+PROD0450,Pressure Cooker,Home,Kitchen,6201.28
+PROD0451,Men'S Jacket,Clothing,Men,1841.28
+PROD0452,Gaming Laptop,Electronics,Laptop,24701.38
+PROD0453,Gaming Laptop,Electronics,Laptop,59125.87
+PROD0454,Formal Shoes,Clothing,Footwear,1754.43
+PROD0455,Budget Phone,Electronics,Mobile,37433.43
+PROD0456,Men'S T-Shirt,Clothing,Men,1550.12
+PROD0457,Wall Art,Home,Decor,12660.21
+PROD0458,Leather Sandals,Clothing,Footwear,1776.63
+PROD0459,Sofa Set,Home,Furniture,12482.9
+PROD0460,Blender,Home,Kitchen,14367.65
+PROD0461,Photo Frame,Home,Decor,14697.66
+PROD0462,Data Science Handbook,Books,Technology,388.47
+PROD0463,Women'S Blouse,Clothing,Women,2010.04
+PROD0464,Wireless Mouse,Electronics,Accessories,40526.03
+PROD0465,General Knowledge Book,Books,Education,583.32
+PROD0466,Budget Phone,Electronics,Mobile,21503.19
+PROD0467,English Grammar Guide,Books,Education,854.23
+PROD0468,Budget Phone,Electronics,Mobile,11982.96
+PROD0469,Ultrabook Pro,Electronics,Laptop,40992.98
+PROD0470,Wooden Chair,Home,Furniture,9434.76
+PROD0471,Men'S Formal Shirt,Clothing,Men,303.03
+PROD0472,Maths Workbook,Books,Education,198.85
+PROD0473,Wall Art,Home,Decor,9948.6
+PROD0474,Men'S Jeans,Clothing,Men,556.81
+PROD0475,Leather Sandals,Clothing,Footwear,2977.46
+PROD0476,Wall Art,Home,Decor,9668.35
+PROD0477,Noise Cancelling Headphones,Electronics,Headphones,24709.12
+PROD0478,Phone Case,Electronics,Accessories,45661.79
+PROD0479,Men'S Jacket,Clothing,Men,1690.75
+PROD0480,Sofa Set,Home,Furniture,13219.46
+PROD0481,Chromebook,Electronics,Laptop,55061.22
+PROD0482,Men'S Jacket,Clothing,Men,1952.79
+PROD0483,Budget Phone,Electronics,Mobile,1929.4
+PROD0484,Blender,Home,Kitchen,14388.22
+PROD0485,Over-Ear Headphones,Electronics,Headphones,46657.09
+PROD0486,Thriller Book,Books,Fiction,175.98
+PROD0487,Budget Phone,Electronics,Mobile,50937.68
+PROD0488,Ultrabook Pro,Electronics,Laptop,26794.14
+PROD0489,Wall Art,Home,Decor,8454.98
+PROD0490,Pressure Cooker,Home,Kitchen,3611.71
+PROD0491,Phone Case,Electronics,Accessories,25972.29
+PROD0492,Wireless Earbuds,Electronics,Headphones,20027.52
+PROD0493,Men'S T-Shirt,Clothing,Men,1860.08
+PROD0494,Casual Sneakers,Clothing,Footwear,917.6
+PROD0495,Ai Fundamentals,Books,Technology,816.32
+PROD0496,Business Notebook,Electronics,Laptop,31030.98
+PROD0497,Blender,Home,Kitchen,9109.44
+PROD0498,Non-Stick Pan,Home,Kitchen,9916.5
+PROD0499,Men'S Jeans,Clothing,Men,2538.49
+PROD0500,Laptop Stand,Electronics,Accessories,38613.01
